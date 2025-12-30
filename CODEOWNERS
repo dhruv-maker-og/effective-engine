@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @dhruv-maker-og
+/src/backend/database.py      @dhruv-maker-og
+/src/backend/routers/auth.py  @dhruv-maker-og
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @dhruv-maker-og
